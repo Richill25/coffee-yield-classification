@@ -1,0 +1,13 @@
+
+Call:
+ randomForest(formula = yield_class ~ ., data = train_data, ntree = 500,      mtry = sqrt(p), nodesize = 1, importance = TRUE) 
+               Type of random forest: classification
+                     Number of trees: 500
+No. of variables tried at each split: 3
+
+        OOB estimate of  error rate: 0.95%
+Confusion matrix:
+       High Low Medium class.error
+High     52   0      1  0.01886792
+Low       0  77      1  0.01282051
+Medium    0   0     79  0.00000000
