@@ -34,8 +34,8 @@ This project applies the **Nine Wheels of Statistical Machine Learning** framewo
 ## Model Performance
 
 **Random Forest (Winning Model)**
-- Test Accuracy: [Your accuracy from Wheel 7]
-- 95% Confidence Interval: [Your CI from Wheel 8]
+- Test Accuracy: 1
+- 95% Confidence Interval: [1 1]
 
 **Key Finding**: Rainfall and soil pH are the most important predictors of coffee yield.
 
