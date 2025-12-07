@@ -4,7 +4,7 @@ author: "Richill"
 date: "2025-12-04"
 output:
   pdf_document:
-    latex_engine: xelatex  # Or use lualatex if you prefer
+    latex_engine: xelatex  
 ---
 
 ```{r setup, include=FALSE}
